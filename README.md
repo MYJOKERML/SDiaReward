@@ -20,7 +20,7 @@
 ## Overview
 
 <p align="center">
-  <img src="assets/head_v3.png" width="300" alt="SDiaReward Framework">
+  <img src="assets/head_v3.png" width="500" alt="SDiaReward Framework">
 </p>
 
 SDiaReward is an end-to-end multi-turn reward model for evaluating spoken dialogue quality. It operates directly on full multi-turn speech episodes and is optimized with pairwise preference supervision, enabling joint assessment of **modality-awareness** (prosody, emotion, acoustic naturalness) and **colloquialness** (conversational spontaneity vs. scripted style) in a single evaluator.
