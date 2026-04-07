@@ -1,6 +1,6 @@
 # SDiaReward: Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness
 
-> Official repository for "Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness".
+> Official repository for "Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness" (**Accepted to ACL 2026 Main Conference** 🎉).
 
 <p align="center">
   <a href="https://arxiv.org/abs/2603.14889"><img src="https://img.shields.io/badge/Paper-arXiv-red"></a>
@@ -10,6 +10,7 @@
 </p>
 
 ## 🔔 News
+- [x] **[2026.04.06]** 🎉 Our paper has been officially accepted to **ACL 2026 Main Conference**!
 - [x] **[2026.03.17]** 💻 We have officially released the training and evaluation code!
 - [x] **[2026.03.17]** 🔥 Our paper is now available on [![arXiv](https://img.shields.io/badge/arXiv-2603.14889-b31b1b.svg)](https://arxiv.org/abs/2603.14889)
 - [ ] **[TODO]** Release SDiaReward-3B and 7B model weights on HuggingFace.
