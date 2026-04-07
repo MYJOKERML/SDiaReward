@@ -167,4 +167,4 @@ If you find this project useful for your research, please consider citing our pa
 
 This project is intended for research purposes only. The code is licensed under the Apache 2.0 License. 
 
-Regarding the **SDiaReward-Dataset** and **ESDR-Bench**, to mitigate copyright and privacy risks, we only release derived artifacts (such as dialogue metadata, preference annotations, and evaluation scripts) without speaker-identifiable representations. Reconstructing the underlying audio content requires users to independently obtain the data in accordance with the original platforms' terms of service.
+Due to copyright and privacy considerations, the public repository only contains derived artifacts for the SDiaReward-Dataset and ESDR-Bench. To request access to the original audio data, please contact us via email at lujingyu@zju.edu.cn.
